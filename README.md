@@ -1,4 +1,4 @@
-# Study of basic digital IC's and verification of truth tables for different logic gates realization.
+# EX 01 Study of basic digital IC's and verification of truth tables for different logic gates realization.
 # Name:Vignesh.v
 # Register number:23004027
 ### AIM:
